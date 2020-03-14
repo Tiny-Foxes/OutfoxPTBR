@@ -40,4 +40,4 @@ Those are people that started the pt-BR translation. / Essas são pessoas que co
 
 * **Jorge Luiz** - *Lead Translation* - [moruzerinho6](https://github.com/moruzerinho6)
 * **SHRMP0** - *Spelling Correction and word choice.* - [SHRMP0](https://github.com/SHRMP0)
-* **SheepyChris** - *Speeling Correction and word choice.*
+* **SheepyChris** - *Speeling Correction and word choice.* - [SheepyChris](https://github.com/SheepyChris)
