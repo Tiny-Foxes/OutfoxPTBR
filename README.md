@@ -1,38 +1,38 @@
 # OutfoxPTBR
 
-Brazilian Portuguese (PT-BR) Translation of StepMania 5.3 "Outfox" / Tradução em Português Brasileiro (PT-BR) do StepMania 5.3 "OutFox"
+Brazilian Portuguese (PT-BR) Translation for StepMania 5.3 "Outfox" / Tradução em Português Brasileiro (PT-BR) do StepMania 5.3 "OutFox"
 
 ## Rules / Regras
 
 ### EN
 
-There are many rules that aren't applied on every case, on most cases for example: "steps" aren't translated to "notas", but "notes" are, even though "steps" can be "translated" to "notes" and then to "notas", it isn't the same thing.
+If you want to help, there are many rules that aren't applied on every case. On most cases for example: "steps" aren't translated to "notas", but "notes" are, even though "steps" can be "translated" to "notes" and then to "notas". It isn't the same thing.
 
-But, there are some words that should not be translated for the sake of text context, good looking and easy to read.
+But, there are some words that should not be translated for the sake of text context, better aesthetics and improved readability.
 
-You must no translate "course", "courses", "step", "steps", "notefield", "playfield" and most mod names; There might me more, so you should look at the already made translation and take a base from there.
+You shouldn't translate "course", "courses", "step", "steps", "notefield", "playfield" and most mod names; There might be more rules, so you should take a look at what's already translated and use as reference for future content.
 
 ### pt-BR
 
-Tem muitas regras que não são aplicadas em todos os casos, em vários casos por exemplo: "steps" não são traduzidas para "notas", mas "notes" são, mesmo que "steps" possa ser "traduzido" para "notes" e então para "notas", não é a mesma coisa.
+Caso você deseje colaborar, existem muitas regras que não são aplicadas em todos os casos. Em vários casos por exemplo: "steps" não são traduzidas para "notas", mas "notes" são, mesmo que "steps" possa ser "traduzido" para "notes" e então para "notas". Não é a mesma coisa.
 
-Mas, existem algumas palavras que não devem ser traduzidas, para ter um texto com boa aparência, fácil de ler e com um bom contexto.
+Mas, existem algumas palavras que não devem ser traduzidas para ter um texto com boa aparência, fácil de ler e com um bom contexto.
 
-Você não deve traduzir "course", "courses", "step", "steps", "notefield", "playfield" e a maioria dos nomes de mods; Muito provavelmente tem mais regras, então eu recomendo que você veja as traduções já feitas para ter uma base.
+Você não deve traduzir "course", "courses", "step", "steps", "notefield", "playfield" e a maioria dos nomes de mods; Podem haver mais regras, então recomendamos que você analise o que já esta traduzido e tome como referência para traduzir conteúdos futuros.
 
 ## Community / Comunidade
 
 ### EN
 
-We don't have a Discord Server, atleast not yet, we're talking and making changes though the official Project OutFox Discord Server, that you can find there: https://projectmoon.dance/
+We don't have our own Discord server (at least not yet). Currently, we're discussing everything related to the translation process at the Project Moondance/OutFox Discord server. Invite link is available on the website: https://projectmoon.dance/
 
-You can find us in the "portuguese" channel.
+You can find us in the "#portuguese" channel.
 
 ### pt-BR
 
-Não temos um Servidor Oficial do Discord, pelo menos não ainda, nós estamos conversando e fazendo mudanças pelo Servidor Oficial Do Project Outfox, que você pode achar aqui: https://projectmoon.dance/
+Não temos um servidor próprio do Discord (pelo menos não ainda). Atualmente, nós discutimos tudo relacionado ao processo de tradução no servidor do Discord do Project Moondance/Outfox. O link de convite está disponível no website: https://projectmoon.dance/
 
-Você pode achar a gente no canal "portuguese".
+Você pode nos encontrar no canal "#portuguese".
 
 ## Credits / Créditos
 
