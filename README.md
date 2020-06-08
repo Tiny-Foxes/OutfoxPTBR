@@ -34,6 +34,16 @@ Não temos um servidor próprio do Discord (pelo menos não ainda). Atualmente, 
 
 Você pode nos encontrar no canal "#portuguese".
 
+## Versions 
+
+The versions of the translations are noted inside the .ini file to make it clear for what version the translation is made for.
+
+If a file contains this "# Version: 4.5.8 Alpha Rev 2"
+
+It means it's for Stepmania 5.3 Alpha 4.5.8
+
+The Rev means if the file was made before or after the version was released, if it's rev 2 then it means the translation was corrected after the rev 1 was already sent to the alpha, rev 2 or higher are not expected to come to the alpha. (Maybe only for hotfix versions)
+
 ## Credits / Créditos
 
 Those are people that started the pt-BR translation. / Essas são pessoas que começaram a tradução pt-BR
