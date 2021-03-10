@@ -1,6 +1,6 @@
 # OutfoxPTBR
 
-Brazilian Portuguese (PT-BR) Translation for StepMania 5.3 "Outfox" / Tradução em Português Brasileiro (PT-BR) do StepMania 5.3 "OutFox"
+Brazilian Portuguese (PT-BR) Translation for Project OutFox / Tradução em Português Brasileiro (PT-BR) do Project OutFox
 
 ## Rules / Regras
 
@@ -38,15 +38,15 @@ Você pode nos encontrar no canal "#portuguese".
 
 ### EN
 
-Versions are noted inside the .ini file in order to make it clear what version of StepMania the translation is based on. For example: if a file contains "# Version: 4.5.8 Alpha Rev 2", it means it was made for Stepmania 5.3 Alpha 4.5.8.
+Versions are noted inside the .ini file in order to make it clear what version of OutFox the translation is based on. For example: if a file contains "# Version: 4.5.8 Alpha Rev 2", it means it was made for OutFox Alpha 4.5.8.
  
-"Rev" stands for revision. This is meant to help determine when the file was released. Rev 1 files are always bundled with their respective StepMania version by default. If it's labeled as Rev 2 (or higher), then it means they've been released after their corresponding version, and requires manual installation (except if a hotfix patch was launched, then it will include the latest revision at the time).
+"Rev" stands for revision. This is meant to help determine when the file was released. Rev 1 files are always bundled with their respective OutFox version by default. If it's labeled as Rev 2 (or higher), then it means they've been released after their corresponding version, and requires manual installation (except if a hotfix patch was launched, then it will include the latest revision at the time).
 
 ### pt-BR
 
-As versões são destacadas dentro do arquivo .ini para deixar claro em qual versão do StepMania a tradução se baseia. Por exemplo: se um arquivo contém "# Version: 4.5.8 Alpha Rev 2", significa que foi feito para o Stepmania 5.3 Alpha 4.5.8.
+As versões são destacadas dentro do arquivo .ini para deixar claro em qual versão do OutFox a tradução se baseia. Por exemplo: se um arquivo contém "# Version: 4.5.8 Alpha Rev 2", significa que foi feito para o OutFox Alpha 4.5.8.
  
-"Rev" significa revisão. Isso serve para ajudar a determinar quando o arquivo foi lançado. Os arquivos Rev 1 são sempre disponibilizados com sua respectiva versão do StepMania por padrão. Caso rotulado como Rev 2 (ou superior), significa que foram liberados após a versão correspondente e requerem instalação manual (exceto se um patch de hotfix foi lançado, neste caso ele incluirá a revisão mais recente até então).
+"Rev" significa revisão. Isso serve para ajudar a determinar quando o arquivo foi lançado. Os arquivos Rev 1 são sempre disponibilizados com sua respectiva versão do OutFox por padrão. Caso rotulado como Rev 2 (ou superior), significa que foram liberados após a versão correspondente e requerem instalação manual (exceto se um patch de hotfix foi lançado, neste caso ele incluirá a revisão mais recente até então).
 
 ## Credits / Créditos
 
