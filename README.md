@@ -24,13 +24,13 @@ Você não deve traduzir "course", "courses", "step", "steps", "notefield", "pla
 
 ### EN
 
-We don't have our own Discord server (at least not yet). Currently, we're discussing everything related to the translation process at the Project Moondance/OutFox Discord server. Invite link is available on the website: https://projectmoon.dance/
+We don't have our own Discord server (at least not yet). Currently, we're discussing everything related to the translation process at the Project Moondance/OutFox Discord server. Invite link is available on the website: https://projectoutfox.com/
 
 You can find us in the "#portuguese" channel.
 
 ### pt-BR
 
-Não temos um servidor próprio do Discord (pelo menos não ainda). Atualmente, nós discutimos tudo relacionado ao processo de tradução no servidor do Discord do Project Moondance/Outfox. O link de convite está disponível no website: https://projectmoon.dance/
+Não temos um servidor próprio do Discord (pelo menos não ainda). Atualmente, nós discutimos tudo relacionado ao processo de tradução no servidor do Discord do Project Moondance/Outfox. O link de convite está disponível no website: https://projectoutfox.com/
 
 Você pode nos encontrar no canal "#portuguese".
 
