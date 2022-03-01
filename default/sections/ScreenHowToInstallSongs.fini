@@ -1,0 +1,13 @@
+[exports]
+BodyHeader=Como obter e instalar músicas para o OutFox
+Finding Songs=Onde encontrar músicas
+Installing Songs=Como instalar músicas
+Importing Songs=Importar de instalações existentes do OutFox
+Reload Songs=Recarregar músicas
+Exit=Voltar para o menu principal
+
+Explanation-WhereToFind=Abre uma página web com informações cobre como encontrar músicas para usar no OutFox.
+Explanation-HowToInstall=Abre uma página web com informações de instalação de músicas.
+Explanation-AdditionalFolders=Se você tiver outras instalações do OutFox, você pode usar a preferencia AdditionalFolders para carregar as músicas dessas versões para a versão atual.
+Explanation-ReloadSongs=Músicas recarregadas. Isso é necessário se você tiver adicionado, alterado ou deletado músicas enquanto OutFox estava sendo executado.
+Explanation-Exit=Retornar para o menu principal.

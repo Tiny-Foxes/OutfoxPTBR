@@ -1,0 +1,87 @@
+[exports]
+## Scatterplot settings
+maxscatternps=Máx. NPS do Scatter
+judgmentscatter=Julgamento do Scatter
+npsscatter=Gráfico NPS
+lifescatter=Gráfico de Vida
+progressquad=Progresso Quad
+labelnps=Rótulo NPS
+scattery=Posição Y do Scatter
+judgmenty=Posição Y do Julgador
+showmiscjud=Mostrar Julgamentos Misc.
+##
+ToggleJudgmentWindows=Ativar Janela de Julgador
+SpeedModType=Tipo de velocidade
+SpeedModVal=Mod. de velocidade
+SpeedMargin=Increm. de velocidade
+##
+PlayerOptionNextScreen=Próxima Tela
+OverTopGraph=Gráfico de densidade no topo
+LuaNoteSkins=NoteSkins
+MeasureCounter=Contator de stream
+MeasureCounterDivisions=Contador divido
+MeasureCounterBreaks=Mostrar quebra de Stream
+DisableLowerWindows=Desativar Julgadores baixos
+Display and Graphics=Display e gráficos
+Sound Options=Sons
+Input Options=Opções de entrada
+System Options=Opções do sistema
+Experimental Options=Opções experimentais
+##
+SongSampleMode=Modo de Amostra de Música
+SongToggleLoop=Loop na Seleção de Música
+UseOldJoystickMapping=Método Legado de Mapeamento de Joystick
+ShowMouseCursor=Mostrar Cursor do Mouse
+##
+Appearance and Themes=Experiência do usuário
+Background Options = Opções de Fundo
+UI Options=Opções de interface
+GraphicsSettings=Opções de gráfico
+DisplaySettings=Display e resolução
+InputOptions=Entrada e calibração
+GameplaySettings=Opções de gameplay
+SMSettings=Opções OutFox
+##
+AutoSetStyle=Auto definir estilo
+NotePosition=Posição das notas
+ComboOnRolls=Rolls aumentam o combo
+ComboUnderField=Combo abaixo das setas
+TimingMode=Ajuste do Timing
+
+GameplayShowScore=Mostrar pontuação
+GameplayShowStepsDisplay=Mostrar informações de steps
+ShowLotsaOptions=Densidade das opções
+LongFail=Duração de falha
+FlashyCombo=Combo animado
+GameplayFooter=Rodapé da gameplay
+FancyUIBG=Fundo de interface animado
+ShowMascotCharacter=Mostrar mascote
+MiniSelector=Zoom do NoteField (%)
+RotateFieldX=Rotação do NoteField X
+RotateFieldZ=Rotação do NoteField Z
+SmartJudgments=Fonte do Julgador
+SmartToasties=Toasty
+JudgmentEval=Usar fonte nos resultados
+ComboIsPerRow=Combo é por cada linha
+SmartTimings=Janela de acerto
+TimingDisplay=Mostrar o Timing
+GameplayReadyPrompt=Aviso de começo
+AllowAudioInEvaluation=Permitir música em resultados
+JudgmentItems=Itens do Julgamento
+Steps=Dificuldade
+
+PreferredMeter=Medidor preferido
+CustomComboContinue=Julgador mín. para continuar combo
+CustomComboMaintain=Julgador mín. para manter combo
+ForcedExtraMods=Forçar Mods no Estágio Extra
+
+GameplayBPM=Mostrar BPM em gameplay
+CurrentStageLocation=Personagem dançante
+StatsPane=Painel de info.
+VideoRenderer=Renderizador de vídeo
+NoteFieldLength=Largura do NoteField
+# Experimental setting, will remain temporarily.
+experimentNPSDiagram=AFT do Diagrama de Notas por segundo
+SoundwavesSubTheme=Filtro de cor
+SoundwavesMenuBG=Fundo de menu
+ScreenFilterColor=Cor de filtro da Tela
