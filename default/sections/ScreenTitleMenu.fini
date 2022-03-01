@@ -1,0 +1,10 @@
+[exports]
+Fitness=Modo Fitness
+HelpText=&BACK; Sair &START; Selecionar &MENUUP;&MENUDOWN; Mover
+Network OK=Network OK
+Offline=Offline
+Connected to %s=Conectado com %s
+CurrentGametype=Modo de jogo atual
+LifeDifficulty=Dificuldade de vida
+TimingDifficulty=Dificuldade de timing
+%i Songs (%i Groups), %i Courses=%i Músicas (%i Grupos), %i Courses

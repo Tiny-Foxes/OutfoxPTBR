@@ -1,0 +1,9 @@
+[exports]
+HelpText=Aperte &START; para jogar
+HelpTextJoin=Aperte &START; para jogar
+HelpTextWait=Insira créditos!
+EventMode=Modo Evento
+JointPremiumMain=Entrar Premium
+JointPremiumSecondary=Dois jogadores podem entrar com um crédito!
+DoublesPremiumMain=Doubles Premium
+DoublesPremiumSecondary=Jogue doubles por um crédito!

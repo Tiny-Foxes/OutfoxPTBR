@@ -1,0 +1,4 @@
+[exports]
+Type=Tipo
+SongCount=Núm. de músicas
+HelpText=&BACK; Sair  &START; Selecionar / Entrar &MENULEFT;&MENURIGHT; Mover::&MENUUP;&MENUUP;/&MENUDOWN;&MENUDOWN; Mudar dificuldade  &UP;&DOWN;&UP;&DOWN; para outros tipo de courses

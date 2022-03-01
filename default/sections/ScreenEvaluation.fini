@@ -1,0 +1,39 @@
+[exports]
+Barely!=Quase!
+HelpText=&BACK; Sair &START; Continuar &MENULEFT;-&MENURIGHT; Mudar Página &SELECT; Snapshot
+LifeDifficulty=Dificuldade de vida: %s
+TimingDifficulty=Judge %s
+TimingName=Timing: %s
+MachineRecord=Recorde da máquina #%i!
+PersonalRecord=Recorde pessoal #%i!
+ITG DP:=ITG DP:
+MIGS DP:=MIGS DP:
+HeaderText=Resultados
+HeaderSubText=Vamos ver como você foi.
+ExtraUnlocked=Estágio Extra desbloqueado!
+Statistics=Estatisticas
+ColumnSc=Distribuição de Timing
+FitnessInfo=Estatísticas Fitness
+
+CaloriesBurnedSong=Calorias Queimadas (essa música)
+CaloriesToday=Calorias Hoje
+CaloriesTotal=Total de Calorias
+NoProfileSet=Esse jogador não tem perfil, portanto, data Fitness não vai ser salva no final de cada música.
+NoGoal=Nenhuma marca foi definida.
+GoalAchieved=Marca Alcançada!
+GoalToGo=a ir!!
+CurrentGoal=Marca Atual
+
+# Judgment histogram page
+HistogramCol=Histograma dos Julgamentos
+Mean=Média
+Median=Mediana
+Mode=Modo
+Late=Tarde
+Early=Cedo
+
+CurrentZoom=Zoom: %s
+ZoomHelp1=&UP;&DOWN; Zoom do Gráfico
+ZoomHelp2=&UP;&DOWN; Zoom  &LEFT;&RIGHT; Pan
+ZoomHelpPad1=&UP; ou &DOWN; Zoom
+ZoomHelpPad2=&UP; ou &DOWN; Zoom - &LEFT; ou &RIGHT; Pan

@@ -1,0 +1,6 @@
+[exports]
+GiveUpAbortedText=Saindo...
+GiveUpStartText=Aperte &START; duas vezes; para acessar o menu
+GiveUpSelectText=Aperte &SELECT; duas vezes; para acessar o menu
+GiveUpBackText=Aperte &BACK; duas vezes; para acessar o menu
+MaxNPS=Máx. NPS: %i

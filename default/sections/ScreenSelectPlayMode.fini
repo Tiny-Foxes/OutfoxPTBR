@@ -1,0 +1,8 @@
+[exports]
+HelpText=&BACK; Sair &START; Selecionar / Entrar &MENULEFT;&MENURIGHT; Mover
+EasyExplanation=Para aqueles que estão apenas começando.
+NormalExplanation=O modo normal do jogo.
+RaveExplanation=Carregue ataques para distrair seu oponente!
+NonstopExplanation=Jogue cursos de várias músicas consecutivas.
+OniExplanation=Jogue cursos de várias músicas consecutivas com vida limitada.
+EndlessExplanation=Por quanto tempo você sobrevive?

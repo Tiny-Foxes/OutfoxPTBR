@@ -1,0 +1,4 @@
+[exports]
+HelpText=&BACK; Sair &START; Selecionar &MENULEFT;&MENURIGHT; Mover
+StageCounter=%s Estágio
+EventStageCounter=Estágio %03i

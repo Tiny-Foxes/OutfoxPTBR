@@ -1,0 +1,6 @@
+[exports]
+SingularSongPlayed=%d Música jogada
+SeveralSongsPlayed=%d Músicas jogadas
+PressStart=Aperte &START; para entrar.
+HelpText=&MENUUP;&MENUDOWN; Alterar Perfil &START; Escolher/Entrar &BACK; Desmarcar
+HeaderSubText=Escolha seu perfil!
