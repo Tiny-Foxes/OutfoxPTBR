@@ -1,0 +1,9 @@
+[exports]
+Finish >=Terminar >
+Cancel=Cancelar
+< Back=< Voltar
+Install a package=Instalar um pacote
+Edit Installations=Editar Instalações
+You have chosen to install the package:=Você escolheu instalar o pacote:
+This package contains the following files:=Esse pacote contém os seguintes arquivos:
+The package will be installed in the following program folder:=Esse pacote vai ser instalado na seguinte pasta:

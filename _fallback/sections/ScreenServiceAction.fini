@@ -1,0 +1,22 @@
+[exports]
+%d added=%d adicionado
+%d copied=%d copiado
+%d overwritten=%d substituído
+%d deleted=%d deletado
+%d edits cleared, %d errors.=%d edições limpas, %d erros.
+%d failed=%d falhos
+%d ignored=%d ignorados
+Bookkeeping data cleared.=Dados de Bookkeeping limpos.
+Copied from P%d card:=Copiado do cartão P%d:
+Copied to P%d card:=Copiado do cartão P%d:
+Edits not cleared - No memory cards ready.=Edições não limpas - Nenhum cartão de memória pronto.
+Edits not copied - No memory cards ready.=Edições não copiadas - Nenhum cartão de memória pronto.
+Error saving machine stats to P%d card.=erro salvando dados da máquina para o cartão P%d.
+Machine stats cleared.=Dados da Máquina limpos.
+Machine stats loaded from P%d card.=Dados da Máquina carregados do cartão P%d.
+Machine stats saved to P%d card.=Dados da Máquina salvos no cartão P%d.
+Preferences reset.=Preferências redefinidas.
+Stats not loaded - No memory cards ready.=Dados não carregados - Nenhum cartão de memória pronto.
+Stats not saved - No memory cards ready.=Dados não carregados - Nenhum cartão de memória pronto.
+The profile on P%d card contains corrupt or tampered data.=O perfil no cartão P%d contem dados corrompidos ou adulterados.
+There is no machine profile on P%d card.=Não há Perfil da Máquina salvo no cartão P%d.

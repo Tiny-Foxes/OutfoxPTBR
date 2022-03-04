@@ -1,0 +1,9 @@
+[exports]
+Could not open file '%s'.=Não foi possível abrir o arquivo '%s'.
+Installing.  Please wait...=Instalando.  Por favor, espere...
+'%s' is not a valid zip archive.='%s' não é um arquivo zip valido.
+Error opening source file '%s': %s=Erro ao abrir arquivo fonte '%s': %s
+Error opening destination file '%s': %s=Erro ao abrir arquivo de destino '%s': %s
+Error copying file '%s': %s=Erro ao copiar arquivo '%s': %s
+No Installations found.  Exiting.=Nenhuma instalação encontrada.  Saindo.
+Package installed successfully!=Pacote instalado com sucesso!

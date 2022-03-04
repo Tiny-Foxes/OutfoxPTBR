@@ -1,0 +1,5 @@
+[exports]
+You must supply a name for your workout.=Você deve digitar um nome para o seu treino.
+The name you chose conflicts with another workout. Please use a different name.=O nome que você escolheu cria um conflito com outro treino. Por favor use um nome diferentes.
+The workout name cannot contain any of the following characters: %s=O nome do treino não pode contem nenhum dos seguintes caracteres: %s
+%d/%d songs enabled=%d/%d músicas habilitadas

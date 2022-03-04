@@ -1,0 +1,26 @@
+[exports]
+AllCourses=Todos os Courses
+Artist=Artista
+BPM=BPM
+Endless=Infinito
+Genre=Gênero
+Group=Grupo
+ModeMenu=Modo Menu
+Nonstop=Sem Parar
+Oni=Oni
+Popularity=Melhor do Jogador
+Preferred=Preferido
+Title=Título
+TopGrades=Melhores Grades
+Roulette=Roleta
+Length=Duração
+Recent=Jogado Recentemente
+BeginnerMeter=Medidor Iniciante
+EasyMeter=Medidor Fácil
+MediumMeter=Medidor Médio
+HardMeter=Medidor Difícil
+ChallengeMeter=Medidor Desafiante
+DoubleEasyMeter=(Double) Medidor Fácil
+DoubleMediumMeter=(Double) Medidor Médio
+DoubleHardMeter=(Double) Medidor Difícil
+DoubleChallengeMeter=(Double) Medidor Desafiante

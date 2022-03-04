@@ -1,0 +1,13 @@
+[exports]
+'%s' cleared='%s' limpo
+'%s' doesn't exist.  It will be created next time you start the game.='%s' não existe. Ele será criado na próxima vez que você iniciar o jogo.
+'%s' is already cleared.='%s' já está limpo.
+Failed to copy music file '%s' to '%s': %s=Falha ao copiar arquivo de música '%s' para '%s': %s
+Failed to create directory '%s': %s=Falha ao criar pasta '%s': %s
+Failed to create song directory '%s': %s=Falha ao criar a pasta da música '%s': %s
+Failed to create the song file '%s'.=Falha ao criar o arquivo de música '%s'.
+Failed to delete file '%s'.=Falha ao deletar arquivo '%s'.
+Failed to open '%s': %s=Falha ao abrir '%s': %s
+Music file=Arquivo de música
+Success.  Created the song '%s'.=Sucesso. Música '%s' criada.
+The song directory '%s' already exists.  You cannot override an existing song.=A pasta da música '%s' já existe. Você não pode substituir uma música existente.

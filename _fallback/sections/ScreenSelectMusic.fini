@@ -1,0 +1,4 @@
+[exports]
+HeaderText=Selecionar Música
+HeaderSubText=Você vai selecionar uma música legal!
+PermanentlyDelete=Deletar permanentemente '%s' ( %s ) do disco?

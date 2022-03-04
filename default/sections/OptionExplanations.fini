@@ -1,5 +1,4 @@
 [exports]
-## Scatterplot settings
 maxscatternps=Mude o valor máximo que é permitido no Gráfico de Densidade.
 judgmentscatter=Ative ou Desative o Julgador no Scatter.\nEsse Scatter demonstra sua pontuação em cada Julgamento.
 npsscatter=Ative ou Desative o Gráfico de Densidade.\nEsse gráfico mostra o quão difícil certas partes da chart pode ser.
@@ -9,7 +8,6 @@ labelnps=Ative ou Desative o Rótulo de Notas Por Segundo.\nEle mostra o valor m
 scattery=Ajuste a posição Y do Scatterplot (gráfico de dispersão).
 judgmenty=Ajuste a posição Y da área de julgamentos.
 showmiscjud=Mostrar diversos julgamentos como Jumps, Hands, Mines, Rolls e Lifts.
-##
 PlayerOptionNextScreen=Escolha a proxima tela que você quer ir.
 OverTopGraph=Motra um gráfico de densidade no topo.
 MeasureCounter=Mostre um contator de duração da Stream atual.
@@ -30,21 +28,18 @@ InputOptions=Ajuste as opções de entrada como de teclado, controle, atraso de 
 GameplaySettings=Opções de gameplay como barra de vida, falha, combo e janelas de acerto.
 SMSettings=Opções do sistema OutFox, como inicialização, músicas secretas e bloqueadas, e auto-gerador.
 Appearance and Themes=Opções de temas, NoteSkins, visuais de fundo e interface de usuário.
-Background Options = Opções para visuais de fundos, filmes aleatórios, animações e personagens.
+Background Options=Opções para visuais de fundos, filmes aleatórios, animações e personagens.
 Set BG Fit Mode=Ajuste como os gráficos de fundo e vídeos são escalados se eles não se comportam de forma correta na sua proporção de tela.
 Experimental Options=Opções experimentais do OutFox.
 UseOldJoystickMapping=Se ativado, o modo de entrada baseado em HIDAPI ("legado") que era utilizado no SM5.0.x vai ser usado no lugar do XInput.\nRequer que o jogo seja reiniciado.
 ShowMouseCursor=Defina se o cursor do mouse será mostrado na janela ou não (requer que o jogo seja reiniciado).
-# Experimental Options Listing
 SongSampleMode=Escolha qual música deve ser tocada enquanto estiver na tela de Seleção de Música.
 SongToggleLoop=Defina se a música deve ficar em loop na tela de Seleção de Música.
-#
-AutoSetStyle=Determina se o estilo de jogo deve ser definido automaticamente se possivel. 
+AutoSetStyle=Determina se o estilo de jogo deve ser definido automaticamente se possivel.
 NotePosition=Determina onde o NoteField é posicionado em gameplay.
 ComboOnRolls=Escolha se Rolls devem aumentar o combo ou não. Se você mudar essa opção, você vai ter que reiniciar os metrics (aperte Shift+F2) para ter efeito.
 ComboUnderField=Determine se o combo deve ser exibido acima das notas ou não.
 TimingMode=Ajuste a janela de acerto para a gameplay.
-
 GameplayShowScore=Mostre ou esconda a pontuação durante o gameplay.
 GameplayShowStepsDisplay=Mostre ou esconda as informações de step durante o gameplay.
 ShowLotsaOptions=Escolha quantas listas de opções de onde pode escolher. &oq;Algumas&oq; mantém uma lista minimalista. &oq;Muitas&cq; adiciona variadas opções.
@@ -65,14 +60,11 @@ TimingDisplay=Alterna se deve ser exibido os segmentos de Timing na barra de pro
 GameplayReadyPrompt=Mostra o Ready/Go quando a música começa.
 AllowAudioInEvaluation=Quando ativado, a tela de resultados vai estar tocando a última música jogada, em um tom baixo.
 GameplayBPM=Mostrar o BPM atual na tela de gameplay.
-
 ScoringType=Define qual metodo de pontuação utilizar. Se especial for selecionado, você pode escolher um metodo especial de pontuação nas opções do tema.
-
 PreferredMeter=Escolha seu medidor de dificuldade preferido; isso afeta principalmente a "música de boss". Se você mudar essa opção, você vai ter que recarregar os metrics (Shift+F2) para ter efeito.
 CustomComboContinue=Escolha o Julgamento mínimo para continuar o combo, ou escolha padrão caso você não tenha certeza.
 CustomComboMaintain=Escolha o Julgamento mínimo para manter o combo (sem aumentar), ou escolha padrão caso você não tenha certeza.
 ForcedExtraMods=Escolha se mods forçados devem ser usado no Estágio Extra.
-
 Speed=Ajusta a velocidade em que as notas alcançam o NoteField (X = Multiplicar BPM, C = BPM constante, M = BPM máximo, A = BPM médio)
 Accel=Ajusta a maneira que as notas chegam no NoteField.
 Effect=Mude o tamanho ou movimento das notas e/ou do NoteField.
@@ -94,7 +86,6 @@ Steps=Selecione a dificuldade.
 Characters=Mostre personagens dançantes no fundo.
 SaveToProfileHelp=Necessita um perfil ou cartão de memória.
 MusicRateHelp=Jogue a música em uma velocidade maior ou menor.
-
 LifeType=Escolhe entre os modos da barra de vida como padrão ou bateria (vidas limitadas).
 BarDrain=Comportamento do modo padrão da barra de vida.
 BatLives=O número de vidas que é dado para a barra de vida do modo bateria (só tem efeito se o modo bateria estiver selecionado).
@@ -106,7 +97,6 @@ SaveScores=Escolhe se a pontuação para essa música vai ser salva.
 StatsPane=Mostra um contator dos Julgamentos das notas e combo máximo no canto da tela relativo a direção do jogador (acima da barra de vida).
 VideoRenderer=Escolha entre moderno (GLAD) e legado (OpenGL) engine gráfica.\nRequer que o jogo seja reiniciado.
 NoteFieldLength=Escolha o quão longe o NoteField renderiza. Isso pode impactar charts modificados com efeitos script.
-# Experimental setting, will remain temporarily.
 experimentNPSDiagram=Ativa uma versão baseada em ActorFrameTexture do diagrama NPS na seleção de música.\nA adição da versão AFT é uma transição desatada em segmentos com mais de 36 caracteres.
 SoundwavesSubTheme=Escolha um sub-tema para o tema Soundwaves. As mudanças talvez não façam efeito imediatamente.
 SoundwavesMenuBG=Escolha um fundo de menu para o tema Soundwaves.

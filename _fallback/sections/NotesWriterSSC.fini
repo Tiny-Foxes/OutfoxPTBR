@@ -1,0 +1,3 @@
+[exports]
+Error renaming file.  Destination file '%s' already exists.=Error ao renomear arquivo.  Arquivo de destino '%s' já existe.
+Error writing file '%s'.=Erro ao escrever arquivo '%s'.

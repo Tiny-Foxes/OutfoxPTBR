@@ -1,0 +1,9 @@
+[exports]
+You must supply a name for your new edit.=Você deve digitar um novo nome para sua edição.
+The name you chose conflicts with another chart. Please use a different name.=O nome que você escolheu cria um conflito com outro chart. Por favor use um nome diferente.
+The name you chose conflicts with another edit. Please use a different name.=O nome que você escolheu cria um conflito com outra edição. Por favor use um nome diferente.
+The chart name cannot contain any of the following characters: %s=O nome do chart não pode conter nenhum dos seguintes caracteres: %s
+The edit name cannot contain any of the following characters: %s=O nome da edição não pode conter nenhum dos seguintes caracteres: %s
+The step author's name cannot contain any of the following characters: %s=O nome do autor do step não pode conter nenhum dos seguintes caracteres: %s
+The preview file '%s' does not exist.=O arquivo de pré-visualização '%s' não existe.
+The music file '%s' does not exist.=O arquivo de música '%s' não existe.

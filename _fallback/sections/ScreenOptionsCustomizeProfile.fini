@@ -1,0 +1,13 @@
+[exports]
+HeaderText=Editar Perfil
+weight=Peso (lbs)
+voomax=VO2Max
+birth_year=Ano de Nascimento
+gender=Gênero
+calorie_calc=Cálculo de Calorias
+character=Personagem
+exit=Sair
+use_heart=Usar Frequência Cardíaca
+use_steps=Usar Contagem de Steps
+male=Homem
+female=Mulher

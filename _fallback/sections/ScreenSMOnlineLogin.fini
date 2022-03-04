@@ -1,0 +1,9 @@
+[exports]
+Each player needs a unique Profile.=Cada jogador precisa de um Perfil único.
+Enter your password.=Digite sua senha.
+No Styles are selectable.=Nenhum Estilo é selecionável.
+You are logging on as:=Você está logando como:
+You must define a Profile.=Você precisa definir um Perfil.
+HeaderText=Online Login
+HeaderSubText=Selecione um Perfil de Login
+Depending on the server you're connected to, you may have to register for an account on their website.=Dependendo do servidor que você está conectado, talvez seja necessário registrar uma conta em seu website.

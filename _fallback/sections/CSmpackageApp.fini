@@ -1,0 +1,4 @@
+[exports]
+The file Stats.xml has not yet been created.  It will be created once the game is run.=O arquivo Stats.xml ainda não criado.  Ele será criado quando o jogo iniciar.
+Failed to open '%s': %s=Erro ao abrir '%s': %s
+The file '%s' does not exist.  Aborting installation.=O arquivo '%s' não existe.  Abortando instalação.

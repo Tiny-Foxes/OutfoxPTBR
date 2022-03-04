@@ -1,0 +1,6 @@
+[exports]
+Are you sure you want to clear all data in the profile '%s'?=Você tem certeza que quer deletar todos os dados no perfil &oq;%s&cq;?
+Are you sure you want to delete the profile '%s'?=Você tem certeza que quer deletar o perfil &oq;%s&cq;?
+Enter a name for the profile.=Digite um nome para o perfil.
+NewProfileDefaultName=Novo
+HeaderText=Perfil

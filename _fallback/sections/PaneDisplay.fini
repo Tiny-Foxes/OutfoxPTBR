@@ -1,0 +1,10 @@
+[exports]
+Steps=Steps
+Holds=Holds
+Jumps=Jumps
+Mines=Mines
+Rolls=Rolls
+Hands=Hands
+MachineHigh=Melhor
+EmptyMachineHighScoreName=Melhor
+NotAvailable=N/A

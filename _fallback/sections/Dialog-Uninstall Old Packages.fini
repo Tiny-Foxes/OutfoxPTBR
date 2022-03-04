@@ -1,0 +1,7 @@
+[exports]
+Uninstall Old Packages=Desinstalar Pacotes Antigos
+&Yes=&Sim
+&No=&Não
+Cancel=Cancelar
+The following packages are already installed.  It is strongly recommended that they be deleted before installing this package.=Os seguintes pacotes já estão instalados. É recomendado que eles sejam deletados antes de instalar esse pacote.
+Delete old packages?=Deletar pacotes antigos?

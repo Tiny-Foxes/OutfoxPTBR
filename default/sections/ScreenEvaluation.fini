@@ -14,7 +14,6 @@ ExtraUnlocked=Estágio Extra desbloqueado!
 Statistics=Estatisticas
 ColumnSc=Distribuição de Timing
 FitnessInfo=Estatísticas Fitness
-
 CaloriesBurnedSong=Calorias Queimadas (essa música)
 CaloriesToday=Calorias Hoje
 CaloriesTotal=Total de Calorias
@@ -23,15 +22,12 @@ NoGoal=Nenhuma marca foi definida.
 GoalAchieved=Marca Alcançada!
 GoalToGo=a ir!!
 CurrentGoal=Marca Atual
-
-# Judgment histogram page
 HistogramCol=Histograma dos Julgamentos
 Mean=Média
 Median=Mediana
 Mode=Modo
 Late=Tarde
 Early=Cedo
-
 CurrentZoom=Zoom: %s
 ZoomHelp1=&UP;&DOWN; Zoom do Gráfico
 ZoomHelp2=&UP;&DOWN; Zoom  &LEFT;&RIGHT; Pan

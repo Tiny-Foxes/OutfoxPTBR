@@ -1,0 +1,6 @@
+[exports]
+Connection failed.=Conexão falhou.
+Connection to '%s' successful.=Conexão com '%s' bem-sucedida.
+Connection to server dropped.=Conexão com o servidor perdida.
+Initializing Client Network...=Iniciando Cliente de Rede...
+Not Supported=Modo não suportado enquanto conectado.

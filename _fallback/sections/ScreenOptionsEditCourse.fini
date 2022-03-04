@@ -1,0 +1,10 @@
+[exports]
+The maximum number of entries per course is %d.  This course already has %d entries.=O número máximo de inscrições por course é %d.  Este course já possui %d inscrições.
+You cannot delete the last entry in a course.=Você não pode excluir a última entrada de um course.
+-Empty-=-Vazio-
+Song=Música
+Steps=Steps
+minutes=minutos
+You must enable at least %d songs.=Você deve habilitar pelo menos %d músicas.
+HeaderText=Editar Course
+HelpText=&MENUUP;&MENUDOWN; Mover &MENULEFT;&MENURIGHT; Mudar Valor

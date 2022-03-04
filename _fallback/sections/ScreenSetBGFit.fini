@@ -1,0 +1,7 @@
+[exports]
+CoverDistort=Distorcer
+CoverPreserve=Preservar
+FitInside=Caber
+FitInsideAvoidLetter=Evitar Corte
+FitInsideAvoidPillar=Evitar Vazio
+BG=BG

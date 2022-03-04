@@ -1,0 +1,15 @@
+[exports]
+Home=Home
+End=End
+Up=Cima
+Down=Baixo
+Space=Espaço
+Shift=Shift
+Ctrl=Ctrl
+Alt=Alt
+Insert=Insert
+Delete=Delete
+PgUp=PgUp
+PgDn=PgDn
+Backslash=Backslash
+Tab=Tab

@@ -1,0 +1,17 @@
+[exports]
+Air=A
+Chaos=C
+Freeze=F
+Hands=Hands
+Holds=Holds
+Jumps=Jumps
+Mines=Mines
+Rolls=Rolls
+Stream=S
+Taps=Taps
+TapsAndHolds=Taps
+Voltage=V
+MinMidiNote=Min
+MaxMidiNote=Máx
+Lifts=Lifts
+Fakes=Fakes

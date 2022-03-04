@@ -1,0 +1,12 @@
+[exports]
+AvoidMine=Evitar Mina
+HitMine=Atingir Mina
+Miss=Miss
+CheckpointMiss=Missed Hold Checkpoint
+CheckpointHit=Hit Hold Checkpoint
+None=Nenhum
+W1=Flawless
+W2=Perfect
+W3=Great
+W4=Good
+W5=Boo

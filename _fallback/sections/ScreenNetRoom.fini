@@ -1,0 +1,7 @@
+[exports]
+Enter a description for the room:=Digite uma descrição para essa sala:
+Enter a password for the room (blank, no password):=Digite uma senha para essa sala (vazio, sem senha):
+Enter Room's Password:=Digite a Senha da Sala:
+HeaderText=OutFox Online
+HeaderSubText=Seleção de Sala
+HelpText=Ctrl+ENTER Selecionar &BACK; Sair &MENULEFT;&MENURIGHT; Mover

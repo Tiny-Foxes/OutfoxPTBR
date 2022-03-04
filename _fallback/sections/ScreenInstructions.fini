@@ -1,0 +1,13 @@
+[exports]
+PlayMode_Regular title=Como Jogar
+PlayMode_Regular instructions=Duas coisas para prestar atenção enquanto joga são Minas e Notas com Hold.
+PlayMode_Nonstop title=Modo Sem Parar
+PlayMode_Nonstop instructions=O modo Sem Parar deixa você jogar algumas músicas em seguida (geralmente 4, às vezes mais) usando as regras de gameplay regulares.
+PlayMode_Oni title=Modo Oni
+PlayMode_Oni instructions=O modo Oni força os jogadores para os seus limites com dois conjuntos de regras disponíveis.\nA primeira é a vida de bateria no qual você é limitado para 4 vidas. Qualquer acerto menos que Great ou NG vai remover uma carga da bateria.\nA outra regra é Tempo de Vida no qual você corre contra o relógio.
+PlayMode_Endless title=Modo Infinito
+PlayMode_Endless instructions=O modo infinito permite você jogar um grupo de músicas até você falhar ou decidir sair. Espero que você tenha bastante tempo em mãos...
+PlayMode_Rave title=Modo Rave
+PlayMode_Battle title=Modo Batalha
+Hold instructions=Notas com Hold são notas que você precisa ficar pressionando. Se você completar um hold com sucesso, você vai obter um OK, mas se você largar, vai obter um NG.
+Mine instructions=Minas são explosivos que devem ser evitados a qualquer custo, pois elas tiram bastante vida. Elas são ativas se você estiver pressionando na direção em que estão vindo.

@@ -5,23 +5,18 @@ swGrass=Mato
 swRetro=CincoZero
 DetailedStats=Estatísticas Detalhadas
 swFire=Fogo
-
 swBGSolid=Solido
 swBGBlack=Escuro
-
-# Next Screen labels
 OptionMain=Opções Principais
 OptionSpecial=Opções Adicionais
 OptionSong=Gameplay
 OptionSelectMusic=Voltar à Seleção de Música
 OptionEffects=Efeitos
-
 DarkPlayerScreenFilter=Escuro (por jogador)
 DarkScreenFilter=Preto
 LightScreenFilter=Branco
 LightPlayerScreenFilter=Claro (por jogador)
 GrayScreenFilter=Cinza
-
 MSTiming=Mostra Timing em milissegundo
 OffsetBar=Mostra Offset da Barra
 Div_4ths=4ths
@@ -30,7 +25,6 @@ Div_12ths=12ths
 Div_16ths=16ths
 Div_24ths=24ths
 Div_32nds=32nds
-
 Custom=Especial
 Many=Muitas
 Few=Algumas
@@ -39,15 +33,12 @@ Lower=Baixo
 Short=Curto
 Long=Longo
 Play Song=Jogar Música
-
 MeterClassic=1 até 10 (DDR/ITG)
 MeterX=1 até 19 (DDR X)
 MeterPump=1 até ?? (PIU)
-
 Cover=Esconder Fundo
 Dark=Esconder Receptores
 Blind=Esconder Julgamentos
-
 SpeedX=Multiplicar BPM (X)
 SpeedA=BPM Médio (A)
 SpeedM=BPM Máximo (M)

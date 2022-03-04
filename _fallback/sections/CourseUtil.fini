@@ -1,0 +1,4 @@
+[exports]
+You must supply a name for your course.=Você deve dar um nome ao seu course.
+The course name cannot contain any of the following characters: %s=O nome do course não pode conter nenhum dos seguintes caracteres: %s
+The name you chose conflicts with another course. Please use a different name.=O nome que você escolheu possui conflito com outro course. Por favor escolha um nome diferente.

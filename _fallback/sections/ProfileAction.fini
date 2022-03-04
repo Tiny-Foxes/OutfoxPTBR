@@ -1,0 +1,16 @@
+[exports]
+Clear=Limpar
+Delete=Deletar
+Edit=Editar
+Rename=Renomear
+SetDefaultP1=Definir como P1
+SetDefaultP2=Definir como P2
+MergeToMachine=Mesclar para o Perfil da Maquina
+MergeToMachineSkipTotal=Mesclar para o Perfil da Maquina Sem Totais
+MergeToP1=Mesclar para o Profile P1
+MergeToP2=Mesclar para o Profile P2
+ChangeToGuest=Mudar para Convidado
+ChangeToNormal=Mudar para Normal
+ChangeToTest=Mudar para Teste
+MoveUp=Mover para cima
+MoveDown=Mover para baixo

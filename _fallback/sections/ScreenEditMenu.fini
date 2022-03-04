@@ -1,0 +1,20 @@
+[exports]
+HeaderText=Editar Músicas/Steps
+HeaderSubText=Faça suas músicas perfeitas
+Continue with delete?=Continuar com a exclusão?
+Enter a description for this edit.=Digite uma descrição para essa edição.
+ExplanationAction=Escolha a ação que vai ser executada com os valores acima.
+ExplanationGroup=Escolha o grupo de músicas de onde você quer selecionar.
+ExplanationSong=Escolha que música você quer editar.
+ExplanationSteps=Escolha o tipo de step que você quer editar.\nSelecione "Edição" para criar um novo arquivo de edição.
+ExplanationStepsType=Escolha o tipo de step que você quer editar.
+ExplanationSourceSteps=Escolha o tipo de step que você quer preencher para uma nova edição.\nEscolha "Vazio" para criar uma nova edição sem nenhuma nota adicional.
+ExplanationSourceStepsType=Escolha o tipo de step que você quer preencher para uma nova edição.\nEscolha "Vazio" para criar uma nova edição sem nenhuma nota adicional.
+One of the selected things is invalid.  Pick something valid instead.=Uma das coisas selecionadas está invalida. Escolha uma opção valida.
+Profile name cannot be blank.=Perfil não pode estar vazio.
+The name you chose conflicts with another profile. Please use a different name.=O nome que você escolheu cria um conflito com outro perfil. Por favor escolha um nome diferente.
+These steps are produced by autogen.  You do not need to delete them.=Esses steps foram produzidos por geração automática.  Você não precisa deletá-los.
+These steps will be lost permanently.=Esses steps vão ser perdidos permanentemente.
+This song is missing a music file and cannot be edited.=Essa música está com o arquivo de música faltando e não pode ser editada.
+The song directory is read-only and cannot be edited.=A pasta da música é somente para leitura e não pode ser editada.
+Blank=Vazio

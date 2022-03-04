@@ -1,0 +1,21 @@
+[exports]
+Failed to create the context to test OpenGL=Falha ao criar contexto para testar OpenGL
+Announcer=Narrador
+Couldn't open any loading windows.=Não foi possível abrir nenhuma janela de carregamento.
+Fullscreen=Tela Cheia
+Initializing %s...=Iniciando %s...
+No video renderers attempted.=Nenhum renderizador de vídeo tentado.
+NoSmoothLines=NoSmoothLines
+NoVsync=NoVsync
+Please do not file this error as a bug!  Use the web page below to troubleshoot this problem.=Por favor não reporte esse erro como um bug! Use a pagina abaixo para resolver esse problema.
+Service switch pressed=Botão de Serviço pressionado
+SmoothLines=SmoothLines
+There was an error while initializing your video card.=Houve um erro durante a inicialização sua placa de vídeo.
+Unknown video renderer value: %s=Valor de renderizador de vídeo desconhecido: %s
+Video Driver: %s=Driver de Vídeo: %s
+Vsync=Vsync
+Windowed=Em Janela
+color=cor
+texture=textura
+Exclusive=Exclusivo
+Borderless Window=Janela Sem Borda

@@ -1,0 +1,17 @@
+[exports]
+CreditsCardChanged=CARTÃO TROCADO
+CreditsCardChecking=VERIFICANDO CARTÃO
+CreditsCardMountFailed=FALHA AO MONTAR CARTÃO
+CreditsCardNoName=SemNome
+CreditsCardReady=PRONTO
+CreditsCardRemoved=CARTÃO REMOVIDO
+CreditsCardTestFailed=ERRO DE ESCRITA NO CARTÃO
+CreditsCardTooLate=CARTÃO MUITO TARDE
+CreditsCredits=CRÉDITO(S)
+CreditsMax=(MÁX)
+CreditsFreePlay=JOGO GRÁTIS
+CreditsInsertCard=INSERIR CARTÃO
+CreditsLoadFailed=FALHA NA ASSINATURA
+CreditsLoadedFromLastGoodAppend=(backup)
+CreditsNotPresent=NÃO PRESENTE
+CreditsPressStart=APERTE START

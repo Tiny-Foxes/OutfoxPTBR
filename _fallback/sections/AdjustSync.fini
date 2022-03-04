@@ -1,0 +1,15 @@
+[exports]
+%s BPM from %.3f BPM to %.3f BPM.=%s BPM de %.3f BPM para %.3f BPM.
+Autosync Machine=Auto-Sincronizar Máquina
+Autosync Song=Auto-Sincronizar Música
+Autosync Tempo=Auto-Sincronizar Tempo
+Autosync: Correction NOT applied. Deviation too high.=Auto-Sincronizar: Correção NÃO aplicada. Desvio muito alto.
+Autosync: Correction applied.=Auto-Sincronizar: Correção aplicada.
+Global Offset from %+.3f to %+.3f (notes %s)=Offset Global de %+.3f para %+.3f (notas %s)
+Song offset from %+.3f to %+.3f (notes %s)=Offset da Música de %+.3f para %+.3f (notas %s)
+The stop segment #%d changed from %+.3fs to %+.3fs (change of %+.3f).=O segmento de parada número #%d mudou de %+.3fs para %+.3fs (mudança de %+.3f).
+earlier=mais cedo
+later=mais tarde
+Average Error %.5fs=Erro médio %.5fs
+Etc.=Etc.
+%d taps ignored.=%d taps ignorados.

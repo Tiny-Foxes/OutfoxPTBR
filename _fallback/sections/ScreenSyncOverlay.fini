@@ -1,0 +1,17 @@
+[exports]
+AutoPlay=AutoPlay
+AutoPlayCPU=AutoPlayCPU
+AutoSync Machine=Auto-Sincronizar Máquina
+AutoSync Song=Auto-Sincronizar Música
+AutoSync Tempo=Auto-Sincronizar Tempo
+Can't sync while playing a course.=Não é possível sincronizar enquanto joga um course.
+Sync changes reverted.=Mudanças de sincronização revertidas.
+revert_sync_changes=Reverter mudanças de sincronizações
+change_bpm=BPM Atual - Menor/Largo
+change_song_offset=Offset da Música - notas cedo/tarde
+change_machine_offset=Offset da Maquina - notas cedo/tarde
+hold_alt=(segure Alt para um menor incremento)
+Old offset=Antigo offset
+New offset=Novo offset
+Collecting sample=Coletando amostra
+Standard deviation=Desvio padrão

@@ -1,0 +1,5 @@
+[exports]
+GiveUpAbortedText=Não desista!
+GiveUpStartText=Continue segurando &START; para desistir
+GiveUpBackText=Continue segurando &BACK; para desistir
+SkipSongText=Continue segurando &SELECT; para pular a música

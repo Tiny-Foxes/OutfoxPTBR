@@ -1,0 +1,6 @@
+[exports]
+Name Your Package=Dê um nome ao seu pacote
+Enter a name for your new package:=Digite um nome para o seu pacote:
+OK=OK
+Cancel=Cancelar
+Note: leave off the ".smzip" extention=Nota: deixar de fora a extensão ".smzip"

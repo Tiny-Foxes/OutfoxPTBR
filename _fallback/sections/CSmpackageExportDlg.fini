@@ -1,0 +1,5 @@
+[exports]
+No items are checked.=Nenhum item está selecionado.
+Successfully exported package '%s' to your Desktop.=Pacote exportado com sucesso '%s' para sua Área de Trabalho.
+The following packages failed to export:=Os seguintes pacotes falharam na exportação:
+The following packages were exported to your Desktop:=Os seguintes pacotes foram exportados para sua Área de Trabalho:

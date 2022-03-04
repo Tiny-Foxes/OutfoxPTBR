@@ -1,0 +1,11 @@
+[exports]
+DL @ %d KB/s=DL @ %d KB/s
+Download cancelled.=Download cancelado.
+Enter URL=Digite o URL
+Failed.=Falhou.
+Failed to connect.=Falha ao conectar.
+File Already Exists=Arquivo já existe
+Header Sent.=header enviado.
+Invalid URL.=URL inválida.
+VisitURL=--Visitar URL--
+Waiting for header.=Aguardando header.

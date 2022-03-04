@@ -1,0 +1,6 @@
+[exports]
+CenterImageAddHeight=CenterImageAddHeight
+CenterImageAddWidth=CenterImageAddWidth
+CenterImageTranslateX=CenterImageTranslateX
+CenterImageTranslateY=CenterImageTranslateY
+OrSeparator=or

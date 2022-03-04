@@ -1,0 +1,11 @@
+[exports]
+Error parsing file '%s'.=Erro ao analisar o arquivo '%s'.
+Error reading '%s'.=Erro ao ler '%s'.
+Error reading line '%s' from '%s': Each line must have either 3 or 4 values.  This row has %d values.=Erro ao ler linha '%s' de '%s': Essa linha deve ter 3 ou 4 valores.  Essa linha tem %d valores.
+Error reading file '%s'.=Erro ao ler arquivo '%s'.
+Exported to your Desktop as '%s'.=Exportado para sua Área de Trabalho como '%s'.
+Failed to save '%s'.=Falha ao salvar '%s'.
+Imported %d strings into '%s'.\n - %d were added.\n - %d were modified\n - %d were unchanged\n - %d empty strings were ignored=Importado %d linhas para '%s'.\n - %d foram adicionadas.\n - %d foram modificadas\n - %d não mudaram\n - %d linhas vazias ignoradas
+Importing these strings will override all data in '%s'. Continue?=Importar essas linhas substituirá todos os dados em '%s'. Continuar?
+There are no strings to export for this language.=Não existem linhas para serem exportadas neste idioma.
+This will permanently delete '%s'. Continue?=Isso deletará '%s' permanentemente. Continuar?

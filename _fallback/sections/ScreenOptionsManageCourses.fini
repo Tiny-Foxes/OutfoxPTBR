@@ -1,0 +1,9 @@
+[exports]
+Continue with delete?=Continuar com a exclusão?
+Enter a name for the course.=Digite um nome para esse course.
+You have %d, the maximum number allowed.=Você tem %d, o número máximo permitido.
+You must delete an existing before creating a new.=Você deve deletar um existente antes de criar um novo.
+Error renaming file.=Erro ao renomear arquivo.
+This course will be lost permanently.=Esse course vai ser perdido permanentemente.
+Error deleting the file '%s'.=Erro ao deletar arquivo '%s'.
+HeaderText=Courses

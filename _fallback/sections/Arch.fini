@@ -1,0 +1,5 @@
+[exports]
+Couldn't create a movie driver.=Não foi possível criar driver de filme.
+Input Handlers cannot be empty.=Manipuladores de entrada não podem estar vazios.
+Movie Drivers cannot be empty.=Drivers de filme não podem estar vazios.
+Sound Drivers cannot be empty.=Drivers de som não podem estar vazios.

@@ -1,0 +1,15 @@
+[exports]
+1) Create a new language\n2) Export the theme strings to a CSV\n3) Edit the CSV using Excel or a text editor\n4) Import the CSV file back into the same language=1) Crie um novo idioma\n2) Exporte as linhas do tema para um CSV\n3) Edite o CSV usando Excel ou um editor de texto\n4) Importe o arquivo CSV para o mesmo idioma
+Check Language=Verificar Idioma
+Close=Fechar
+Create Language=Criar Idioma
+Delete Language=Deletar Idioma
+Export CSV=Exportar CSV
+Export already translated strings=Exportar linhas já traduzidas
+Import CSV=Importar CSV
+Language Translations=Traduções do Idioma
+Languages=Idiomas
+Need translation:=Precisa traduzir:
+Selection details=Selecionar detalhes
+Themes=Temas
+Total Strings:=Total de Linhas:

@@ -1,0 +1,5 @@
+[exports]
+Connected=Conectado
+Unplugged=Desconectado
+NeedsMultitap=Precisa de Multitap
+NoInputHandler=Nenhum Gerenciador de Entrada

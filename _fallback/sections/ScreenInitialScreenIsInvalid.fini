@@ -1,0 +1,2 @@
+[exports]
+InvalidScreenExplanation=A tela inicial definida por esse tema não é válida. Ela não está definida em nenhum lugar do tema ou no tema _fallback. Esse é um erro do tema que deve ser reportado para o(a) autor(a) do tema. Você pode apertar Scroll Lock (A tecla operador) para acessar o menu de serviço e mudar para outro tema.

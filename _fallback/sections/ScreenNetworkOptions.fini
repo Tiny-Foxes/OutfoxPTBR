@@ -1,0 +1,11 @@
+[exports]
+Disconnected from server.=Desconectar do servidor.
+Enter a network address.=Digite um endereço de rede.
+Server failed: %s Code:%d=Servidor falhou: %s Code:%d
+Use 127.0.0.1 to connect to yourself.=Use 127.0.0.1 para conectar a si mesmo.
+Connect=Conectar
+Disconnect=Desconectar
+ScoreOn=Ligado
+ScoreOff=Desligado
+HeaderText=Opções de Rede
+HeaderSubText=Configurar gameplay de rede

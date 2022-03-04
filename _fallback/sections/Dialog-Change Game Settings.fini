@@ -1,0 +1,18 @@
+[exports]
+Cancel=Cancelar
+Change Game Settings=Mudar Opções de Jogo
+Default (recommended)=Padrão (recomendado)
+Direct3D=Direct3D
+DirectSound Hardware=DirectSound Hardware
+DirectSound Software=DirectSound Software
+Graphics API=API Gráfica
+Log to Disk=Salvar Log no Disco
+Other=Outro
+Force 60Hz Refresh=Forçar Atualização de 60Hz
+Null (no sound)=Vazio (sem Som)
+OK=OK
+OpenGL=OpenGL
+Show Log Window=Mostrar Log da Janela
+Sound API=API de Som
+Tip: Change these only if you experience problems when using the default settings.=Aviso: Mude isso apenas se você estiver problemas usando as opções padrão.
+WaveOut=WaveOut

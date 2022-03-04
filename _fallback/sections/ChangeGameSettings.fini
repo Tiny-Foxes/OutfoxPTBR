@@ -1,0 +1,2 @@
+[exports]
+Error writing file '%s': %s=Erro ao escrever arquivo '%s': %s

@@ -1,0 +1,3 @@
+[exports]
+IniFileMissing=Arquivo INI faltando. Não foi possível ler do disco :(
+UnknownPreference=Preferência desconhecida "%s"

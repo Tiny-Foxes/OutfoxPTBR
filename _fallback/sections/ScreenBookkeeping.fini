@@ -1,0 +1,8 @@
+[exports]
+All-time Coin Total:=Total de Moedas desde o início:
+Total Song Plays: %d=Total de Músicas Jogadas: %d
+Coin Data by Day of Week, All-Time=Dados de Moeda por Dia da Semana, desde o início
+Coin Data by Hour of Day, All-Time=Dados de Moeda por Hora Do Dia, desde o início
+Coin Data of Last %d Days=Dados de Moeda nos Últimos %d Dias
+Coin Data of Last %d Weeks=Dados de Moeda nas Últimas %d Semanas
+HeaderText=Bookkeeping

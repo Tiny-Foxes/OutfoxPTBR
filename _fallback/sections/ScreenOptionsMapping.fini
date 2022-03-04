@@ -1,0 +1,5 @@
+[exports]
+HeaderText=Mapear Dispositivos
+HelpText=&MENULEFT; &MENUUP; Posição anterior &MENUDOWN; &MENURIGHT; Posição seguinte &START; Mapear &BACK; Sair
+PressButton=Pressione o botão no controlador
+Instruction=Aperte &START; enquanto um botão está selecionado no menu.

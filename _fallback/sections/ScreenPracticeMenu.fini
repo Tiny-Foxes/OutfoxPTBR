@@ -1,0 +1,7 @@
+[exports]
+HeaderText=Praticar Músicas
+ExplanationGroup=Selecionar o grupo da música.
+ExplanationSong=Selecione a música que você deseja praticar.
+ExplanationAction=Pressione Start para praticar!
+ExplanationStepsType=Selecione o tipo de Step que você deseja praticar.
+ExplanationSteps=Selecione o notechart.

@@ -1,0 +1,5 @@
+[exports]
+Controller=Controle
+not mapped=não mapeado
+secondary=secundário
+HeaderText=Testar Entrada

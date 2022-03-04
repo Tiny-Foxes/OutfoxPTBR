@@ -1,0 +1,4 @@
+[exports]
+HeaderText=Selecionar Música Online
+HeaderSubText=Seleção de Música
+HelpText=Ctrl+ENTER Seleciona &BACK; Sair &MENULEFT;&MENURIGHT; Mover::&MENUUP; Opções do Jogador &MENUDOWN; Mudar Dificuldade

@@ -1,0 +1,19 @@
+[exports]
+HelpTextNormal=Use &MENULEFT;&MENURIGHT; para selecionar, e então aperte &START;
+HelpTextSelectMusic=Use &MENULEFT;&MENURIGHT; para selecionar, e então aperte &START;
+HelpTextDifficultyPart=&UP;&UP; dificuldade mais fácil     &DOWN;&DOWN; dificuldade mais díficil
+HelpTextOptions=&MENUUP;&MENUDOWN; linha   &MENULEFT;&MENURIGHT; mudar   &START; escolher
+HelpTextOptionsAndBack=&MENUUP;&MENUDOWN; linha   &MENULEFT;&MENURIGHT; mudar   &START; escolher    &BACK; descartar
+HelpTextOptionsSimple=&MENUUP;&MENUDOWN; mudar   &START; escolher
+HelpTextOptionsSimpleAndBack=&MENUUP;&MENUDOWN; linha   &START; escolher    &BACK; descartar
+HelpTextSort=&UP;&DOWN;&UP;&DOWN; para mudar o filtro
+HelpTextContinue=Aperte qualquer botão ou tecla. Aperte ESCAPE quando estiver feito.
+HelpTextEvaluation=Aperte &START; para continuar
+HelpTextScreenshot=Aperte &SELECT; para tirar uma foto de captura da tela
+HelpTextTestInput=Aperte qualquer botão ou tecla.  Aperte ESCAPE quanto estiver feito.
+HelpTextTestLights=Aperte &MENULEFT;&MENURIGHT; para mudar luzes.  Aperte ESCAPE quanto estiver feito.
+HelpTextTextEntry=Digite um valor usando o teclado.  Aperte Enter para terminar.
+HelpTextMapControllers=Use as teclas de seta para mover, ENTER para assinar, SPACE para limpar::Aperte ESCAPE quando estiver feito
+HelpTextOnline=stepmaniaonline.net para conectar com o servidor oficial do OutFox Online::Visite stepmaniaonline.net para mais informações
+HelpTextNetSelectMusic=Ctrl + Enter para entrar na sala/selecionar música::&UP; para Opções de Jogador
+HelpTextBookkeeping=Aperte &MENULEFT;&MENURIGHT; para alternar entre dados.  Aperte ESCAPE quando estiver satisfeito.

@@ -1,0 +1,24 @@
+[exports]
+Tertiary=Terciário
+Controller=Controle
+ActionClear=Limpar Para o Padrão
+ActionReload=Recarregar do Disco
+ActionSave=Salvar no Disco
+ActionSetList=Atribuir lista
+ActionExit=Sair
+Default=Padrão
+HeaderText=Controladores de mapa
+InvalidButton=Essa tecla não pode ser mapeada.
+KeyName=Nome da Tecla
+MenuLeftMissing=Nada está mapeado para MenuLeft
+MenuRightMissing=Nada está mapeado para MenuRight
+NoSetListPrompt=Nenhuma entrada na lista para definir.  Adicione entradas na lista apertando 'm' enquanto o cursor estiver nelas.
+%s slots=Botões %s
+OperatorMissing=Nada está mapeado para Operator
+Primary=Primário
+SavePrompt=Salvar opções antes de sair?
+Secondary=Secundário
+StartMissing=Nada está mapeado para Start
+VitalButtons=Os botões vitais para navegar nos menus não estão mapeados:
+WarningHeader=ATENÇÃO!
+WarningText=Por favor certifique-se de não sobrescrever nenhuma tecla importante, tais como:\n&MENULEFT; ESQUERDA &MENURIGHT; DIREITA &MENUUP; CIMA &MENUDOWN; BAIXO &START; START &BACK; VOLTAR or &SELECT; SELECIONAR. Não aplique teclas a funções que você não sabe o que faz ou desmapeie teclas importantes!
