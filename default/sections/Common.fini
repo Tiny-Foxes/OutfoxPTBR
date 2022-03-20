@@ -1,5 +1,5 @@
 [exports]
-WindowTitle=Project OutFox 5.3 Alpha
+WindowTitle=Project OutFox
 StepMania=Project OutFox
 ModelLoadError=Modelo para %s (%s) tem um modelo inválido. Por favor verifique se o arquivo model.txt está nomeado e formatado de forma correta.
 ModelAnimLoadError=O arquivo de animação para o modelo %s (%s) é inválido ou não existe. Por favor verifique a pasta de animações e veja se há um arquivo faltando.

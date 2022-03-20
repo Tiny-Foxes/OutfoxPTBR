@@ -112,6 +112,9 @@ SoundEffect=
 Style=
 FINI-requireSection=sections/OptionExplanations.fini
 
+[OptionsList]
+FINI-requireSection=sections/OptionsList.fini
+
 [OptionNames]
 0=
 FINI-requireSection=sections/OptionNames.fini

@@ -1,12 +1,13 @@
 [exports]
-Add/Edit Foreground Change=Adicionar/Editar Mudanças Foreground # Talvez seja melhor não traduzior Foreground? - zerinho6
+AllowEditorAutoSaving=Auto Save
+Add/Edit Foreground Change=Adicionar/Editar Mudanças Foreground
 ShowTwoPlayersInEditor=Mostrar Ambos Jogadores
 ShowMeasureLinesInEditorPlayback=Mostrar linhas de Timing
 ShowPlayerModifiersInEditor=Mostrar Lista de Mods
 AutoAdvanceUponNotePlacement=Avançar ao Por Nota
 File1 Song FGAnimation=Animações Foreground da Música
 Convert long notes=Converter notas longas
-Stutter Segment=Segmento Travado # Não sei se é a melhor ideia traduzir isso mas não parece tão errado. - zerinho6
+Stutter Segment=Segmento Travado
 Save Chart To Lua=Salvar Chart em Lua
 Save Chart Section To Lua=Salvar Sessão do Chart em Lua
 AllowNotefieldChangesOnPreview=Permitir mudanças no Notefield em Prévia

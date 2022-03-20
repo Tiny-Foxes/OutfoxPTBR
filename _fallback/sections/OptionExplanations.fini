@@ -1,4 +1,5 @@
 [exports]
+AllowEditorAutoSaving=Faz com que o jogo automáticamente salve o chart atual a cada 5 minutos.
 LiftHoldsToHolds=Todas as holds não necessitam soltar no final delas.
 ShowTwoPlayersInEditor=Escolha se ambos jogadores devem ser exibidos durante a reprodução.
 ShowMeasureLinesInEditorPlayback=Escolha se as linhas de timing devem ser exibidas durante a reprodução.
